@@ -63,11 +63,11 @@ Reach out to me at p.pranavbalachander@gmail.com or connect with me on [LinkedIn
 ### Certifications
 
 <p>
-  <a href="https://www.credly.com/badges/21495164-9c91-45ca-a5a1-b748f7d260fe/public_url"><img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" width="110" alt="AWS Certified Solutions Architect – Associate"></a>
-  <a href="https://www.credly.com/badges/366282ad-8c7d-462c-8715-589d266060bf/public_url"><img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/linkedin_thumb_azure-ai-fundamentals-600x600.png" width="110" alt="Microsoft Certified: Azure AI Fundamentals"></a>
-  <a href="https://www.credly.com/badges/f26ccba9-c67e-4a09-8bfe-6d1a3844d72c/public_url"><img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/linkedin_thumb_image.png" width="110" alt="Microsoft Certified: Azure Fundamentals"></a>
-  <a href="https://www.credly.com/badges/a3cfc7a4-57c1-45c3-84b6-fd2ec41c3aa0/public_url"><img src="https://images.credly.com/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/linkedin_thumb_CERT-Fundamentals-Power-Platform.png" width="110" alt="Microsoft Certified: Power Platform Fundamentals"></a>
-  <a href="https://verify.skilljar.com/c/9m2ck582cj35"><img src="assets/dataiku-core-designer.png" width="110" alt="Dataiku Core Designer"></a>
+  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" width="110" alt="AWS Certified Solutions Architect – Associate">
+ <img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/linkedin_thumb_azure-ai-fundamentals-600x600.png" width="110" alt="Microsoft Certified: Azure AI Fundamentals">
+  <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/linkedin_thumb_image.png" width="110" alt="Microsoft Certified: Azure Fundamentals">
+  <img src="https://images.credly.com/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/linkedin_thumb_CERT-Fundamentals-Power-Platform.png" width="110" alt="Microsoft Certified: Power Platform Fundamentals">
+  <img src="assets/dataiku-core-designer.png" width="110" alt="Dataiku Core Designer">
 </p>
 
 ---
