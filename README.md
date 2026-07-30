@@ -110,22 +110,6 @@ Hey, I'm Pranav, a Computer Science graduate from Penn State with experience in 
 </a>
 </p>
 
-### 📈 UniElecPrice
-
-IEEE-published unified day-ahead electricity-price dataset spanning 40 markets, featuring a CNN–BiLSTM–Attention forecasting model that outperformed LSTM and Transformer baselines.
-
-### 🤖 SponsorScan
-
-AI-powered job aggregation platform that automatically collects, filters, and ranks software engineering jobs for OPT and H-1B candidates using intelligent work-authorization and experience-based filtering.
-
-### 🥽 VALS
-
-Virtual reality anatomy labeling system built in Unity and C#, featuring Trie-based autocomplete for fast and intuitive in-headset interaction.
-
-### 🚘 commutr
-
-Student commuting platform focused on simplifying transportation through user-centered design, accessibility, and route planning.
-
 ---
 
 ## Publication
