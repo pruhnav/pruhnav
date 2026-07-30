@@ -10,7 +10,7 @@
   <a href="https://orcid.org/0009-0000-1425-2821">
     <img src="https://img.shields.io/badge/ORCID-0009--0000--1425--2821-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
   </a>
-  <a href="./Pranav_Balachander_Resume.pdf">
+  <a href="./Pranav Balachander Master Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
   </a>
 </p>
