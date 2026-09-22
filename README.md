@@ -4,7 +4,8 @@
   <img src="assets/nav.svg" alt="nav" height="26">
 </picture>
 
-### Pranav Balachander
+<br>
+<br>
 
 Hey, I'm Pranav, a Computer Science graduate from Penn State with experience in AI, data analytics, and software development. I'm passionate about applying technology to solve challenges across business and healthcare.
 
@@ -55,4 +56,4 @@ Hey, I'm Pranav, a Computer Science graduate from Penn State with experience in 
 
 <br>
 
-<sub>Open to ML and software engineering roles. &nbsp; `p.pranavbalachander@gmail.com`</sub>
+<sub>Open to AI/ML and SWE roles. &nbsp; `p.pranavbalachander@gmail.com`</sub>
