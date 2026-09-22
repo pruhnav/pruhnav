@@ -1,123 +1,57 @@
-<h1 align="center">Pranav Balachander</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/nav-dark.svg">
+  <img src="assets/nav-light.svg" alt="nav" height="26">
+</picture>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranavbalachander2">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/pruhnav">
-    <img src="https://img.shields.io/github/followers/pruhnav?style=for-the-badge&logo=github&label=Follow&color=181717" alt="GitHub">
-  </a>
-  <a href="https://orcid.org/0009-0000-1425-2821">
-    <img src="https://img.shields.io/badge/ORCID-0009--0000--1425--2821-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
-  </a>
-  <a href="./Pranav_Balachander_Master_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
-  </a>
-</p>
-
----
-
-## About
+### Pranav Balachander
 
 Hey, I'm Pranav, a Computer Science graduate from Penn State with experience in AI, data analytics, and software development. I'm passionate about applying technology to solve challenges across business and healthcare.
 
-📧 **p.pranavbalachander@gmail.com**
+[![Website](https://img.shields.io/badge/pruhnav.github.io-18181b?style=flat-square)](https://pruhnav.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-18181b?style=flat-square&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDItMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzgtMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA3IDIuMDcgMCAxIDEgMC00LjE0IDIuMDcgMi4wNyAwIDAgMSAwIDQuMTR6bTEuNzggMTMuMDJIMy41NVY5aDMuNTd2MTEuNDV6TTIyLjIyIDBIMS43N0MuOCAwIDAgLjc4IDAgMS43M3YyMC41NEMwIDIzLjIyLjggMjQgMS43NyAyNGgyMC40NWMuOTggMCAxLjc4LS43OCAxLjc4LTEuNzNWMS43M0MyNCAuNzggMjMuMiAwIDIyLjIyIDB6Ii8+PC9zdmc+)](https://www.linkedin.com/in/pranavbalachander2)
+[![ORCID](https://img.shields.io/badge/ORCID-18181b?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-1425-2821)
+[![Resume](https://img.shields.io/badge/Resume-18181b?style=flat-square&logo=readdotcv&logoColor=white)](./Pranav_Balachander_Master_Resume.pdf)
+[![Email](https://img.shields.io/badge/Email-18181b?style=flat-square&logo=gmail&logoColor=white)](mailto:p.pranavbalachander@gmail.com)
 
----
+<br>
 
-## Tech Stack
+### Toolkit
 
-### Languages
+![Python](https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-18181b?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-18181b?style=flat-square)
+![Java](https://img.shields.io/badge/Java-18181b?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-18181b?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-18181b?style=flat-square&logo=css&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-18181b?style=flat-square&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-18181b?style=flat-square&logo=mysql&logoColor=white)
+![React](https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-18181b?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-18181b?style=flat-square&logo=streamlit&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-18181b?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-18181b?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-18181b?style=flat-square&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-18181b?style=flat-square&logo=keras&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-18181b?style=flat-square&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-18181b?style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-18181b?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-18181b?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-18181b?style=flat-square)
+![XGBoost](https://img.shields.io/badge/XGBoost-18181b?style=flat-square)
+![SHAP](https://img.shields.io/badge/SHAP-18181b?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-18181b?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-18181b?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-18181b?style=flat-square&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-18181b?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-18181b?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-18181b?style=flat-square&logo=figma&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-18181b?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-18181b?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+<br>
 
-### Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
-### AI / ML & Data
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat)
-![SHAP](https://img.shields.io/badge/SHAP-5B2C6F?style=flat)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-
----
-
-## Certifications
-
-<p>
-  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/linkedin_thumb_image.png" width="90">
-  <img src="https://images.credly.com/images/4136ced8-75d5-4afb-8677-40b6236e2672/linkedin_thumb_azure-ai-fundamentals-600x600.png" width="90">
-  <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/linkedin_thumb_image.png" width="90">
-  <img src="https://images.credly.com/images/2a6251f2-737b-4bf6-9190-d77570cc76fc/linkedin_thumb_CERT-Fundamentals-Power-Platform.png" width="90">
-  <img src="assets/dataiku-core-designer.png" width="90">
-</p>
-
----
-
-## Featured Projects
-
-<p>
-<a href="https://ieeexplore.ieee.org/document/11169754">
-<img src="https://img.shields.io/badge/UniElecPrice-IEEE-blue?style=for-the-badge">
-</a>
-
-<a href="https://github.com/pruhnav/sponsorscan">
-<img src="https://img.shields.io/badge/SponsorScan-GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://github.com/pruhnav/capstoneproject2026">
-<img src="https://img.shields.io/badge/VALS-GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://github.com/commutr-app">
-<img src="https://img.shields.io/badge/commutr-GitHub-181717?style=for-the-badge&logo=github">
-</a>
-</p>
-
----
-
-## Publication
-
-**Unified Cross-Regional Time-Series Day-Ahead Electricity Price Dataset (UniElecPrice)**
-
-Accepted to **IEEE Data Descriptions (2025)**
-
-🔗 https://ieeexplore.ieee.org/document/11169754
-
-🔗 https://doi.org/10.1109/IEEEDATA.2025.3609683
+<sub>Open to ML and software engineering roles. &nbsp; `p.pranavbalachander@gmail.com`</sub>
