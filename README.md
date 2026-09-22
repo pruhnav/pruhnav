@@ -17,7 +17,7 @@ Hey, I'm Pranav, a Computer Science graduate from Penn State with experience in 
 
 <br>
 
-### Stuff I'm familiar with...
+### Stuff I'm familiar with:
 
 ![Python](https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-18181b?style=flat-square&logo=cplusplus&logoColor=white)
