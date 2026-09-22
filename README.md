@@ -1,6 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/nav-dark.svg">
-  <img src="assets/nav-light.svg" alt="nav" height="26">
+  <source media="(prefers-color-scheme: light)" srcset="assets/nav-light.svg">
+  <img src="assets/nav.svg" alt="nav" height="26">
 </picture>
 
 ### Pranav Balachander
