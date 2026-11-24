@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/nav-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/nav-light.svg">
-  <img src="assets/nav.svg" alt="nav" height="26">
-</picture>
-
 <br>
 <br>
 
